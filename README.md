@@ -3,7 +3,7 @@ A fictional spa website using basic html/css and jquery. This static website was
 ## Creator 
 Serene Spa was created by Estella Santiago aka LafayelFaye 
 
-https://randomproject.carbonmade.com
+https://randomproject.carbonmade.com | 
 https://www.behance.net/estellasantiago
 ## Acknowledgments
 
