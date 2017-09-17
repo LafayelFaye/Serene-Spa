@@ -17,13 +17,11 @@ body{
 	padding:70px 0 60px 300px;}
 	
 #header{
-	width:960px;
-	z-index:50;}
+	width:960px;}
 	
 #banner{
 	heigth:414px; 
 	width:1200px;
-	top:50px;
 	float:right;
 	margin-right:-240px;}
 	
@@ -41,7 +39,7 @@ body{
 	
 #nav ul{
 	margin:0;
-	padding:0 0 0 1px;}
+	padding:0;}
 	
 #nav ul li{
 	list-style-type:none;
