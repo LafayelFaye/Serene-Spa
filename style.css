@@ -17,11 +17,13 @@ body{
 	padding:70px 0 60px 300px;}
 	
 #header{
-	width:960px;}
+	width:960px;
+	z-index:50px;}
 	
 #banner{
 	heigth:414px; 
 	width:1200px;
+	top:50px;
 	float:right;
 	margin-right:-240px;}
 	
