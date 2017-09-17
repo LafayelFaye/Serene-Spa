@@ -28,7 +28,7 @@ body{
 /*--------------- navigation bar ---------------*/
 	
 #nav{
-	height:48px;
+	height:100%;
 	width:1200px;
 	font-family:arial;
 	font-size:17px;
