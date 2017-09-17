@@ -501,7 +501,7 @@ form p{
 	padding:40px 0 0 100px;}
 	
 #socialImage{
-	margin-right:100px;
+	margin-right:-100px;
 	margin-top:-3px;}
 	
 #socialImage img{
