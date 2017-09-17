@@ -9,5 +9,5 @@ https://www.behance.net/estellasantiago
 
 w3schools.com for having great tutorials for the navigation and reservation bars! 
 
-##Do's and Don'ts
+## Do's and Don'ts
 Please don't edit, change, or use code as a base for your own creations. However, you are allowed to share my work. 
