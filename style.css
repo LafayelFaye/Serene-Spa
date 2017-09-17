@@ -59,7 +59,8 @@ body{
 	background:#9c8579;}
 	
 #nav .active {
-    background-color:#7a95a6;}
+    background-color:#7a95a6;
+    margin-top:-100px;}
 	
 /*--------------- reservation bar & form ---------------*/
 
