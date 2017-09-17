@@ -28,7 +28,7 @@ body{
 /*--------------- navigation bar ---------------*/
 	
 #nav{
-	height:47px;
+	height:48px;
 	width:1200px;
 	font-family:arial;
 	font-size:17px;
@@ -51,7 +51,7 @@ body{
 	text-decoration:none;
 	display:block;
 	text-align:center;
-        padding:13px 16px;
+        padding:14px 16px;
 	background:#587d6f;}
 	
 #nav ul li a:hover{
