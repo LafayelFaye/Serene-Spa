@@ -53,7 +53,7 @@ body{
 	text-decoration:none;
 	display:block;
 	text-align:center;
-    padding:14px 16px;
+        padding:14px 16px;
 	background:#587d6f;}
 	
 #nav ul li a:hover{
@@ -61,7 +61,8 @@ body{
 	background:#9c8579;}
 	
 #nav .active {
-    background-color:#7a95a6;}
+    background-color:#7a95a6;
+    top:50px;}
 	
 /*--------------- reservation bar & form ---------------*/
 
